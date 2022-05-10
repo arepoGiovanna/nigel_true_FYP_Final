@@ -1,0 +1,29 @@
+1. register modal button for "Register" in register_bAgent.php cannot show modal message.
+2. Fixed up the connection of the login modal in the index.php
+3. Successfully deployed on Heroku
+4. In fypBook4/index.php, lines 446 to 458 are Heroku db. It will only work if you launch it via Heroku.
+
+
+5. Please note a new sql file "kinabalu5.sql" has been exported and can be found in the main fypBook4 folder.
+
+
+====================
+UPDATE in fypBookV4:
+====================
+1. Several new files are created:
+
+sAgent_datables.php
+sAgent_addBook.php
+
+2. A new table is created called "sagent_product.php"
+Notes to read:
+
+3. Delete account buttons for Admin works on all 5 modules including the admin itself. checkAdmin.php
+
+
+https://www.codexworld.com/upload-store-image-file-in-database-using-php-mysql/#:~:text=Get%20the%20file%20extension%20using,be%20shown%20to%20the%20user.
+
+^
+|
+|
+Refer to this website to rebuild certificate upload.
