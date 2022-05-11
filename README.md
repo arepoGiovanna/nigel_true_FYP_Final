@@ -1,3 +1,4 @@
+#FYP Title: Mount Kinabalu Online Booking System
 Multimedia University
 Final Year Project
 
@@ -8,7 +9,7 @@ Specialization: Software Engineer
 
 FYP ID: 1937
 
-FYP Title: Mount Kinabalu Online Booking System
+     
 
 Table of Contents:
 
@@ -70,7 +71,7 @@ To access the database, please upload the file "kinabalu5.sql" into PHPMyAdmin. 
 Just a disclaimer, for the Hiker, Booking Agent, and Mountain Guide pages, they are not working due to not enough time finishing the project.
 
 
-# Thank you for reading this ReadMe File. Live long and prosper.
+Thank you for reading this ReadMe File. Live long and prosper.
 
 THIS FINAL YEAR PROJECT IS FOR MULTIMEDIA UNIVERSITY
 
